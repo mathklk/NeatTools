@@ -34,6 +34,12 @@ Access via `telnet mapscii.me`. Can be installed locally, but requires internet.
 
 https://github.com/rastapasta/mapscii
 
+# pdfgrep
+
+A version of the classic command line tool `grep` that works with PDF files.
+
+https://pdfgrep.org/
+
 # Unlocker
 
 Deleting files on Windows where even the command prompt fails.
