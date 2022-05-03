@@ -34,6 +34,12 @@ Access via `telnet mapscii.me`. Can be installed locally, but requires internet.
 
 https://github.com/rastapasta/mapscii
 
+# netdiscover
+
+Command line utility to scan for devices in a local network.
+
+https://www.kali.org/tools/netdiscover/
+
 # pdfgrep
 
 A version of the classic command line tool `grep` that works with PDF files.
