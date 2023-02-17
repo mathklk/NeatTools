@@ -57,3 +57,11 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml#downloa
 Generate LaTeX tables in a convenient user interface. Online version only.
 
 https://www.tablesgenerator.com/
+
+# Tabview
+
+Interactive command line utility to view CSV files.
+
+Based on Python + Curses. Easily installvs via `pip install tabview`.
+
+https://github.com/TabViewer/tabview
