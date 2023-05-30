@@ -1,67 +1,23 @@
-A list of free tools and programs that I deem "neat". 
+# NeatTools
 
+A list of free tools and programs that I deem "neat".
+
+Free to use, but not necessarily [free software](https://www.gnu.org/philosophy/free-sw.en.html).
 Sorted alphabetically for your convenience.
 
-# Falstad Circuit Simulator
+|Tool|Description|Platform|
+|---|---|---|
+| [Falstad Circuit Simulator](http://falstad.com/circuit/) | Interactively draw & simulate electrical circuits. | Web + Windows + Linux |
+| [Folder Size](http://foldersize.sourceforge.net/) | Lists the size of all folders in the current explorer window. | Windows |
+| [Geogebra Graphing Calculator](https://www.geogebra.org/download/) | Graph functions, plot data and create geometric shapes | Web + Windows + Linux |
+| [Insomnia](https://insomnia.rest/) | Open source program for working with API requests | Windows + Linux |
+| [mapscii](https://github.com/rastapasta/mapscii) | Command-line viewer for OpenStreetMap. Access via `telnet mapscii.me` | Web |
+| [netdiscover](https://www.kali.org/tools/netdiscover/) | Command-line utility to scan for devices in a local network / fancier version of `arp-scan` | Linux |
+| [pdfgrep](https://pdfgrep.org/) | Spin-off of the classic `grep` that works with PDF files | Windows + Linux |
+| [Unlocker](http://www.emptyloop.com/unlocker/) | Delete files even if Windows complains that it's not possible | Windows |
+| [Tables Generator](https://www.tablesgenerator.com/) | Conveniently create LaTeX/Markdown/Html/Text/MediaWiki tables | Web |
+| [Tabview](https://github.com/TabViewer/tabview) | Interactive command-line utility to view CSV files. Based on Python + Curses. Easily installs via `pip install tabview` | Windows + Linux |
 
-Interactively draw & simulate electrical circuits. Online and offline version available.
 
-http://falstad.com/circuit/
 
-# Folder Size
 
-Lists the size of all folders in the current explorer window. 
-
-http://foldersize.sourceforge.net/
-
-# Geogebra Graphing Calculator
-
-Graphs functions and plots data. Online and offline version available.
-
-https://www.geogebra.org/download
-
-# Insomnia
-
-A tool for doing API-Requests.
-
-https://insomnia.rest/
-
-# mapscii
-
-Command line interface for OpenStreetMap.
-
-Access via `telnet mapscii.me`. Can be installed locally, but requires internet.
-
-https://github.com/rastapasta/mapscii
-
-# netdiscover
-
-Command line utility to scan for devices in a local network.
-
-https://www.kali.org/tools/netdiscover/
-
-# pdfgrep
-
-A version of the classic command line tool `grep` that works with PDF files.
-
-https://pdfgrep.org/
-
-# Unlocker
-
-Deleting files on Windows where even the command prompt fails.
-
-https://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml#download
-
-# Tables Generator
-
-Generate LaTeX tables in a convenient user interface. Online version only.
-
-https://www.tablesgenerator.com/
-
-# Tabview
-
-Interactive command line utility to view CSV files.
-
-Based on Python + Curses. Easily installvs via `pip install tabview`.
-
-https://github.com/TabViewer/tabview
